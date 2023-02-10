@@ -1,0 +1,25 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "First test with NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VideoCheese3773/DcA-lab1.git"
+  },
+  "author": "Eduardo Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VideoCheese3773/DcA-lab1/issues"
+  },
+  "homepage": "https://github.com/VideoCheese3773/DcA-lab1#readme",
+  "dependencies": {
+    "@lokeshkatta/reverse-sentence": "^1.0.0"
+  },
+  "devDependencies": {
+    "name-generate": "^0.0.1"
+  }
+}
